@@ -1,3 +1,3 @@
 public class testcom {
- int d;
+ int d = 12;
 }
